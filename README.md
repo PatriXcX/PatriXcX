@@ -2,9 +2,9 @@
 
 [Adalaber promo Betty](https://adalab.es/) 
 
-Frontend developer rookie with a love for creating beautiful and responsive web experiences. I thrive with building modern, responsive websites. Currently looking to collaborate on projects that focus on frontend technologies, although also learning and intrested in backend projects. Curious mind: I love learning something new every day, and that's what fuels me as a new developer. 
+Frontend developer rookie with a love for creating beautiful and responsive web experiences. I thrive with building modern, responsive websites. Currently looking to collaborate on projects that focus on frontend technologies, although also discovering and intrested in backend projects. Curious mind: I love learning something new every day, and that's what fuels me as a new developer. 
 
-In addition, an extensive previous work-experience leading projects and teams has fueled my interest to learn more about project management. 
+Furthermore, my organizational skills (big fan of Kanban boards here 😊) and extensive experience leading projects and teams in a retail environment, have sparked a growing passion for project management in the programming field.
 
 #### 🚀 Skills, Languages and Tools
 
