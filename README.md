@@ -1,6 +1,6 @@
 ## Hi there, it's Patricia! 👋
 
-Adalaber promo B (https://adalab.es/)
+[Adalaber promo B] (https://adalab.es/)
 
 I'm a passionate Frontend Developer with a love for creating beautiful and responsive web experiences. Below you'll find a bit about what I'm currently working on, what I'm learning, and how you can reach out to collaborate!
 
