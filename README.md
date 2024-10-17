@@ -2,13 +2,18 @@
 
 [Adalaber promo B](https://adalab.es/)
 
-Passionate Frontend Developer with a love for creating beautiful and responsive web experiences. I thrive with building modern, responsive websites. Currently looking to collaborate on projects that focus on frontend technologies, although also learning and intrested in backend projects. Curious mind. I love learning something new every day, and that's what fuels me as a rookie developer.
+Passionate Frontend Developer rookie with a love for creating beautiful and responsive web experiences. I thrive with building modern, responsive websites. Currently looking to collaborate on projects that focus on frontend technologies, although also learning and intrested in backend projects. Curious mind. I love learning something new every day, and that's what fuels me as a rookie developer. Due to my my previous job experience managing projects and leading teams, I'd also love learning about Project Management. 
 
 Finde me at https://www.linkedin.com
    
-### 💬 Ask me about
-  Anything related to Frontend development (React, JavaScript, SCSS, etc.), responsive design and how to make websites look great on any screen size.
+### 🚀 Skills
 
+- **Languages**: HTML, CSS, JavaScript, SASS
+- **Frameworks & Libraries**: React, Node.js, Express
+- **Database**: MySQL, SQL
+- **Tools**: Git, GitHub, Visual Studio Code
+- **Project Management**: Agile, Scrum, Jira
+- **Other**: Responsive Design, Team Leadership, Problem Solving
 
 ### 🛠 Languages and Tools
 ---------------------------------------------------------------------------------------------------------------------------
@@ -20,10 +25,7 @@ Finde me at https://www.linkedin.com
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30"/> 
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/> 
-
   <img src="https://tse1.mm.bing.net/th?id=OIP.igsTOJNvPT5roAeEEwUn7QAAAA&pid=Api&P=0&h=180" alt="Express" width="45"/> 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50"/>
-  
- 
 </p>
 
