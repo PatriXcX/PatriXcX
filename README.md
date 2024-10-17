@@ -6,3 +6,6 @@ I'm a passionate Frontend Developer with a love for creating beautiful and respo
    
 ### 💬 Ask me about
   Anything related to Frontend development (React, JavaScript, SCSS, etc.), responsive design and how to make websites look great on any screen size.
+
+### ⚡ About me
+Curious mind. I love learning something new every day, and that's what fuels me as a developer.
