@@ -19,13 +19,18 @@ Frontend Developer rookie with a love for creating beautiful and responsive web 
 ---------------------------------------------------------------------------------------------------------------------------
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50"/> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50"/> 
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" width="50"/> 
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50"/> 
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30"/> 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/> 
-  <img src="https://tse1.mm.bing.net/th?id=OIP.igsTOJNvPT5roAeEEwUn7QAAAA&pid=Api&P=0&h=180" alt="Express" width="45"/> 
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50"/>
+  ## 🛠 Languages and Tools
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30" style="margin-right: 15px;"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="30" style="margin-right: 15px;"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" style="margin-right: 15px;"/> 
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" width="30" style="margin-right: 15px;"/> 
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30" style="margin-right: 15px;"/> 
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="30" style="margin-right: 15px;"/> 
+  <img src="https://tse1.mm.bing.net/th?id=OIP.igsTOJNvPT5roAeEEwUn7QAAAA&pid=Api&P=0&h=180" alt="Express" width="30" style="margin-right: 15px;"/> 
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="30" style="margin-right: 15px;"/> 
+</p>
+
 </p>
 
