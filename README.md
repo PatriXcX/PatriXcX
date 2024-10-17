@@ -12,9 +12,16 @@ Curious mind. I love learning something new every day, and that's what fuels me 
 
 ### 🛠 Languages and Tools
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
-- ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) SASS
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) Node.js
-- ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat) Express
-- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white) SQL
+## 🛠 Languages and Tools
+
+## 🛠 Languages and Tools
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30"/> 
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" width="30"/> 
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="30"/> 
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" width="30"/> 
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="30"/> 
+</p>
+
