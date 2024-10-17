@@ -17,7 +17,6 @@ I'm a passionate Frontend Developer with a love for creating beautiful and respo
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" width="50"/> 
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30"/> 
-  
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/> 
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" width="50"/> 
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50"/> 
