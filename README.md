@@ -1,8 +1,8 @@
-## Hi there 👋 it's Patricia!
+## Hi there, it's Patricia 👋!
 
 I'm a passionate Frontend Developer with a love for creating beautiful and responsive web experiences. Below you'll find a bit about what I'm currently working on, what I'm learning, and how you can reach out to collaborate!
 
-# 🔭 I’m currently working on:
+## 🔭 I’m currently working on:
   
 - Building modern, responsive websites using HTML5, CSS3, and JavaScript.
 
