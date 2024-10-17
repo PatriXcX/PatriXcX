@@ -4,7 +4,7 @@
 
 Finde me at https://www.linkedin.com
 
-Passionate Frontend Developer rookie with a love for creating beautiful and responsive web experiences. I thrive with building modern, responsive websites. Currently looking to collaborate on projects that focus on frontend technologies, although also learning and intrested in backend projects. Curious mind. I love learning something new every day, and that's what fuels me as a rookie developer. Due to my my previous job experience managing projects and leading teams, I'd also love learning about Project Management. 
+Frontend Developer rookie with a love for creating beautiful and responsive web experiences. I thrive with building modern, responsive websites. Currently looking to collaborate on projects that focus on frontend technologies, although also learning and intrested in backend projects. Curious mind. I love learning something new every day, and that's what fuels me as a rookie developer. Due to my my previous job experience managing projects and leading teams, I'd also love learning about Project Management. 
 
 ### 🚀 Skills
 
