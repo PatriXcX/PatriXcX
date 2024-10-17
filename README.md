@@ -12,7 +12,7 @@ Frontend Developer rookie with a love for creating beautiful and responsive web 
 - **Frameworks & Libraries**: React, Node.js, Express
 - **Database**: MySQL, SQL
 - **Tools**: Git, GitHub, Visual Studio Code
-- **Project Management**: Agile, Scrum, Jira
+- **Project Management**: Agile, Scrum
 - **Other**: Responsive Design, Team Leadership, Problem Solving
 
 ### 🛠 Languages and Tools
